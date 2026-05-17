@@ -1,7 +1,7 @@
 # AI Education Implementation Toolkits
 
 Free frameworks for school administrators and university 
-leadership — built because the gap in state guidance is 
+leadership—built because the gap in state guidance is 
 real and the deadlines aren't waiting.
 
 Two documents. No paywall. No consultant required.
