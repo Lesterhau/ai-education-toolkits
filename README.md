@@ -15,7 +15,7 @@ Two documents. No paywall. No consultant required.
 | [Download PDF](https://github.com/Lesterhau/ai-education-toolkits/blob/main/Before%20You%20Launch%20-%20AI%20in%20Schools.pdf)
 
 **Higher Ed | For University Presidents and Provosts**
-[View live](https://lesterhau.github.io/ai-education-toolkits/university-toolkit-v2.html) 
+[View live](https://github.com/Lesterhau/ai-education-toolkits/blob/main/Before%20You%20Launch%20-%20AI%20in%20Higher%20Education%20HTML.html) 
 | [Download PDF](https://github.com/Lesterhau/ai-education-toolkits/blob/main/Before%20You%20Launch%20-%20AI%20in%20Higher%20Education.pdf)
 
 ---
