@@ -11,7 +11,7 @@ Two documents. No paywall. No consultant required.
 ## The Toolkits
 
 **K-12 | For ISD Superintendents and High School Principals**
-[View live](https://lesterhau.github.io/ai-education-toolkits/hs-toolkit-v2.html) 
+[View live](https://github.com/Lesterhau/ai-education-toolkits/blob/main/Before%20You%20Launch%20-%20AI%20in%20Schools%20HTML.html) 
 | [Download PDF](https://github.com/Lesterhau/ai-education-toolkits/blob/main/Before%20You%20Launch%20-%20AI%20in%20Schools.pdf)
 
 **Higher Ed | For University Presidents and Provosts**
