@@ -45,6 +45,10 @@ It is built as a stop/go launch gate covering consequential decisions, human rev
 
 The baseline synthesizes current guidance from UNICEF, UNESCO, NIST, and the European Commission. It is not a substitute for local law; institutions should layer local requirements on top.
 
+**[AI Vendor Procurement Clauses for Education](AI-VENDOR-PROCUREMENT-CLAUSES.md)**
+
+A copy-ready RFP and contract clause library turns those safeguards into procurement requirements: AI/model disclosure, data-use restrictions, training limits, human override, appeal support, accessibility, evaluation evidence, security, incident notification, model-change control, audit evidence, suspension, portability, and deletion.
+
 ---
 
 ## Built by
