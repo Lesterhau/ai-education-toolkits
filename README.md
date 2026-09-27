@@ -35,6 +35,18 @@ Texas-specific political risk analysis.
 
 ---
 
+## Global minimum safeguards
+
+For institutions outside Texas or outside the United States, the repo now also includes a jurisdiction-neutral operational baseline:
+
+**[Minimum Safeguards Before Deploying AI in Education](MINIMUM-SAFEGUARDS.md)**
+
+It is built as a stop/go launch gate covering consequential decisions, human review, appeal and redress, privacy, age-appropriate design, accessibility, fairness testing, security, incident response, model/version change control, evidence before scale, user participation, and vendor exit.
+
+The baseline synthesizes current guidance from UNICEF, UNESCO, NIST, and the European Commission. It is not a substitute for local law; institutions should layer local requirements on top.
+
+---
+
 ## Built by
 
 Ryan Lester | [RL Perspectives](https://rlperspectives.com)  
