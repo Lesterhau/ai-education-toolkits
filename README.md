@@ -12,11 +12,11 @@ Two toolkits. No paywall. No consultant required.
 
 **The High School AI Readiness Toolkit | For ISD
 Superintendents and Principals**
-[Download PDF](The High School AI Readiness Toolkit v3.5.pdf)
+[Download PDF](Before You Launch - AI in Schools.pdf)
 
 **The University AI Readiness Toolkit | For Presidents,
 Provosts and Chancellors**
-[Download PDF](The University AI Readiness Toolkit v3.5.pdf)
+[Download PDF](Before You Launch - AI in Higher Education.pdf)
 
 ---
 
