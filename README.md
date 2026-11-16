@@ -20,14 +20,6 @@ Provosts, Chancellors, Trustees and Higher-Education
 Leaders**
 [Download PDF](Before%20You%20Launch%20-%20AI%20in%20Higher%20Education.pdf)
 
-**High School Executive Overview | One page for boards
-and higher-level decision-makers**
-[Download PDF](HS%20Toolkit%20Executive%20Overview.pdf)
-
-**University Executive Overview | One page for regents,
-trustees and higher-level decision-makers**
-[Download PDF](University%20Toolkit%20Executive%20Overview.pdf)
-
 ---
 
 ## What's in them
