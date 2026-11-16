@@ -10,13 +10,23 @@ Two toolkits. No paywall. No consultant required.
 
 ## The Toolkits
 
-**The High School AI Readiness Toolkit | For ISD
-Superintendents and Principals**
+**The High School AI Readiness Toolkit | For
+Superintendents, Principals, School Boards and
+Education Leaders**
 [Download PDF](Before%20You%20Launch%20-%20AI%20in%20Schools.pdf)
 
 **The University AI Readiness Toolkit | For Presidents,
-Provosts and Chancellors**
+Provosts, Chancellors, Trustees and Higher-Education
+Leaders**
 [Download PDF](Before%20You%20Launch%20-%20AI%20in%20Higher%20Education.pdf)
+
+**High School Executive Overview | One page for boards
+and higher-level decision-makers**
+[Download PDF](HS%20Toolkit%20Executive%20Overview.pdf)
+
+**University Executive Overview | One page for regents,
+trustees and higher-level decision-makers**
+[Download PDF](University%20Toolkit%20Executive%20Overview.pdf)
 
 ---
 
